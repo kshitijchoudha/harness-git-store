@@ -1,6 +1,6 @@
 pipeline:
   name: hello-service-pipeline
-  identifier: gitsyncdemo
+  identifier: helloservicepipeline
   projectIdentifier: Default_Project_1671068007356
   orgIdentifier: default
   tags: {}
