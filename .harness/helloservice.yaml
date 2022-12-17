@@ -6,7 +6,7 @@ pipeline:
   tags: {}
   stages:
     - stage:
-        name: helm-deploy
+        name: helm-deploy-1
         identifier: helmdeploy
         description: ""
         type: Deployment
